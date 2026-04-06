@@ -1,7 +1,7 @@
 import java.util.HashSet;
 import java.util.Set;
 
-public class TrainConsistManagementAp{
+public class TrainConsistManagementApp{
     public static void main(String[] args) {
 
         System.out.println("================================");
