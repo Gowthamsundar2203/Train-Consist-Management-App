@@ -17,7 +17,7 @@ public class TrainConsistManagementApp {
     public static void main(String[] args) {
 
         System.out.println("======================================");
-        System.out.println(" UC8 - Filter Passenger Bogies Using Streams ");
+        System.out.println(" UC9 - Group Bogies by type");
         System.out.println("======================================\n");
 
         List<Bogie> bogies = new ArrayList<>();
