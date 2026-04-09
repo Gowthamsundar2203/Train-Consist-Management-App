@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.regex.*;
 
-public class Main {
+public class Train{
     public static void main(String[] args) {
         
         Scanner sc = new Scanner(System.in);
